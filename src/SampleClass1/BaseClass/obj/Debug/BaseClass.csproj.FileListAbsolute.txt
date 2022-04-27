@@ -1,0 +1,6 @@
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\bin\Debug\BaseClassForTestClass1.dll
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\bin\Debug\BaseClassForTestClass1.pdb
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\obj\Debug\BaseClass.csprojAssemblyReference.cache
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\obj\Debug\BaseClass.csproj.CoreCompileInputs.cache
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\obj\Debug\BaseClassForTestClass1.dll
+C:\Users\CHPR\Downloads\docfx-seed-master\docfx-seed-master\src\SampleClass1\BaseClass\obj\Debug\BaseClassForTestClass1.pdb
